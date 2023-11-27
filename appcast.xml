@@ -4,7 +4,7 @@
       <title>ReelMatch App - Appcast</title>
       <!-- A release testing maximumSystemVersion -->
       <!-- <sparkle:version> is the store version available -->
-      <!-- Add this tag for critical updates but do not comment in item as it still reads -->
+      <!-- Add this tag for critical updates (force upgrade) but do not comment in item as it still reads -->
       <!-- <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>  -->
       <item>
          <title>Android Version 0.0.9</title>
