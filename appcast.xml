@@ -12,7 +12,7 @@
 <!--          <sparkle:version>0.0.9</sparkle:version> -->
          <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion>
          <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion>
-         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+<!--          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> -->
       </item>
       <item>
          <title>iOS Version 0.0.9</title>
@@ -22,7 +22,7 @@
 <!--          <sparkle:version>0.0.9</sparkle:version> -->
          <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion>
          <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion>
-         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+<!--          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> -->
       </item>
    </channel>
 </rss>
