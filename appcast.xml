@@ -4,25 +4,23 @@
       <title>ReelMatch App - Appcast</title>
       <!-- A release testing maximumSystemVersion -->
       <!-- <sparkle:version> is the store version available -->
+      <!-- Add this tag for critical updates but do not comment in item as it still reads -->
+      <!-- <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>  -->
       <item>
          <title>Android Version 0.0.9</title>
          <description>Improved design and updater</description>
          <pubDate>Mon, 27 Nov 2023 14:09:00 +0000</pubDate>
          <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="0.0.9" sparkle:os="android"/>
-<!--          <sparkle:version>0.0.9</sparkle:version> -->
          <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion>
          <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion>
-<!--          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> -->
       </item>
       <item>
          <title>iOS Version 0.0.9</title>
          <description>Improved design and updater</description>
          <pubDate>Mon, 27 Nov 2023 14:09:00 +0000</pubDate>
          <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="0.0.9" sparkle:os="iOS"/>
-<!--          <sparkle:version>0.0.9</sparkle:version> -->
          <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion>
          <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion>
-<!--          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> -->
       </item>
    </channel>
 </rss>
