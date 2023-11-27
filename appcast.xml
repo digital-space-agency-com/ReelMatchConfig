@@ -12,7 +12,7 @@
          <title>Android Version 0.0.9</title>
          <description>Improved design and updater</description>
          <pubDate>Mon, 27 Nov 2023 14:09:00 +0000</pubDate>
-         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="0.0.9" sparkle:os="android"/>
+         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="0.0.10" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
