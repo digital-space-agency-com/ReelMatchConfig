@@ -19,7 +19,7 @@
          <title>iOS Version 1.0.1</title>
          <description>New feature QuickMatch and Filter Streaming services</description>
          <pubDate>Wed, 24 April 2024 20:00:00 +0000</pubDate>
-         <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.0.2" sparkle:os="ios"/>
+         <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.0.1" sparkle:os="ios"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
    </channel>
