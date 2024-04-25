@@ -11,14 +11,14 @@
       <item>
          <title>Android Version 0.0.29</title>
          <description>New feature QuickMatch and Filter Streaming services</description>
-         <pubDate>Mon, 27 Nov 2023 14:09:00 +0000</pubDate>
+         <pubDate>Tue, 23 April 2024 20:00:00 +0000</pubDate>
          <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="0.0.29" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
          <title>iOS Version 1.0.1</title>
          <description>New feature QuickMatch and Filter Streaming services</description>
-         <pubDate>Mon, 27 Nov 2023 14:09:00 +0000</pubDate>
+         <pubDate>Wed, 24 April 2024 20:00:00 +0000</pubDate>
          <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.0.2" sparkle:os="iOS"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
