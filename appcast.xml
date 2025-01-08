@@ -9,17 +9,17 @@
       <!-- <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion> Think this is OS version not app has no effect -->
       <!-- <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion> Think this is OS version not app has no effect -->
       <item>
-         <title>Android Version 1.0.2</title>
-         <description>Bugfix: No longer need to login every time</description>
+         <title>Android Version 1.0.4</title>
+         <description>Limited time only: Huge yearly discount applied in this build. Bugfix: All toggle on liked list is working again</description>
          <pubDate>Tue, 23 April 2024 20:00:00 +0000</pubDate>
-         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.0.2" sparkle:os="android"/>
+         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.0.4" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
-         <title>iOS Version 1.0.2</title>
-         <description>Bugfix: No longer need to login every time</description>
+         <title>iOS Version 1.0.4</title>
+         <description>Limited time only: Huge yearly discount applied in this build. Bugfix: All toggle on liked list is working again</description>
          <pubDate>Wed, 24 April 2024 20:00:00 +0000</pubDate>
-         <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.0.2" sparkle:os="ios"/>
+         <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.0.4" sparkle:os="ios"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
    </channel>
