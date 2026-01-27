@@ -10,14 +10,14 @@
       <!-- <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion> Think this is OS version not app has no effect -->
       <item>
          <title>Android Version 1.1.7</title>
-         <description>Force upgrade required: Please update to the latest version to continue using ReelMatch.</description>
+         <description>We've introduced exciting new features and improvements to enhance your ReelMatch experience! Update now to access the latest functionality and get the best experience possible.</description>
          <pubDate>Tue, 27 January 2026 20:00:00 +0000</pubDate>
          <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.1.7" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
          <title>iOS Version 1.1.6</title>
-         <description>Force upgrade required: Please update to the latest version to continue using ReelMatch.</description>
+         <description>We've introduced exciting new features and improvements to enhance your ReelMatch experience! Update now to access the latest functionality and get the best experience possible.</description>
          <pubDate>Tue, 27 January 2026 20:00:00 +0000</pubDate>
          <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.1.6" sparkle:os="ios"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
