@@ -9,10 +9,10 @@
       <!-- <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion> Think this is OS version not app has no effect -->
       <!-- <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion> Think this is OS version not app has no effect -->
       <item>
-         <title>Android Version 1.2.1</title>
+         <title>Android Version 1.2.6</title>
          <description>We've introduced exciting new features and improvements to enhance your ReelMatch experience! Update now to access the latest functionality and get the best experience possible.</description>
          <pubDate>Tues, 17 February 2026 20:00:00 +0000</pubDate>
-         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.2.1" sparkle:os="android"/>
+         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.2.6" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
