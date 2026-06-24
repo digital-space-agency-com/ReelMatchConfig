@@ -11,14 +11,14 @@
       <item>
          <title>Android Version 1.8.10</title>
          <description>2 amazing features released to everyone AutoPlay and Direct Launch! Now you can flick through trailers seamlessly and launch directly into the movie or show from you likes list!</description>
-         <pubDate>Tues, 16 June 2026 10:00:00 +0000</pubDate>
+         <pubDate>Wed, 24 June 2026 10:00:00 +0000</pubDate>
          <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.8.10" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
          <title>iOS Version 1.8.10</title>
          <description>2 amazing features released to everyone AutoPlay and Direct Launch! Now you can flick through trailers seamlessly and launch directly into the movie or show from you likes list!</description>
-         <pubDate>Tues, 16 June 2026 10:00:00 +0000</pubDate>
+         <pubDate>Wed, 24 June 2026 10:00:00 +0000</pubDate>
          <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.8.10" sparkle:os="ios"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
