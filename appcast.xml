@@ -9,17 +9,17 @@
       <!-- <sparkle:minimumSystemVersion>0.0.8</sparkle:minimumSystemVersion> Think this is OS version not app has no effect -->
       <!-- <sparkle:maximumSystemVersion>0.0.9</sparkle:maximumSystemVersion> Think this is OS version not app has no effect -->
       <item>
-         <title>Android Version 1.8.7</title>
-         <description>We've introduced exciting new features! Update now to access the latest functionality and get the best experience possible.</description>
+         <title>Android Version 1.8.10</title>
+         <description>2 amazing features released to everyone AutoPlay and Direct Launch! Now you can flick through trailers seamlessly and launch directly into the movie or show from you likes list!</description>
          <pubDate>Tues, 16 June 2026 10:00:00 +0000</pubDate>
-         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.8.7" sparkle:os="android"/>
+         <enclosure url="https://play.google.com/store/apps/details?id=team.dsa.reelmatch" sparkle:version="1.8.10" sparkle:os="android"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
       <item>
-         <title>iOS Version 1.8.7</title>
-         <description>We've introduced exciting new features! Update now to access the latest functionality and get the best experience possible.</description>
+         <title>iOS Version 1.8.10</title>
+         <description>2 amazing features released to everyone AutoPlay and Direct Launch! Now you can flick through trailers seamlessly and launch directly into the movie or show from you likes list!</description>
          <pubDate>Tues, 16 June 2026 10:00:00 +0000</pubDate>
-         <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.8.7" sparkle:os="ios"/>
+         <enclosure url="https://apps.apple.com/us/app/reelmatch/id6457263386" sparkle:version="1.8.10" sparkle:os="ios"/>
          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
       </item>
    </channel>
